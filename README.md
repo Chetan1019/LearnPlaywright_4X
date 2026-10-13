@@ -35,6 +35,7 @@ node 02_JS_Keyword_Identifier/01_javascriptenginer.js
 node 02_JS_Keyword_Identifier/02_letinjavascript.js
 node JS_Incre_Decre_Op/07_q5.js
 node JS_Incre_Decre_Op/excersie4.js
+node JS_Incre_Decre_Op/excercise3.js
 ```
 
-The increment/decrement examples explore prefix and postfix operators. In `07_q5.js`, postfix decrement returns the original value before reducing the variable, so the output is `10` followed by `9`. The `excersie4.js` example combines postfix increment with a conditional expression and prefix increment; it prints `3 3`. No additional packages are currently required.
+The increment/decrement examples explore prefix and postfix operators. In `07_q5.js`, postfix decrement returns the original value before reducing the variable, so the output is `10` followed by `9`. The `excersie4.js` example combines postfix increment with a conditional expression and prefix increment; it prints `3 3`. The `excercise3.js` example contrasts postfix and prefix decrement; it prints `2 3`. No additional packages are currently required.
