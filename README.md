@@ -18,6 +18,10 @@ A beginner-friendly workspace for learning JavaScript fundamentals as a starting
 03_JavaScript_Literals/
 04_JS_Operator/
 JS_Incre_Decre_Op/
+├── excercise1.js
+├── exercise2.js
+├── excercise3.js
+└── excersie4.js
 ```
 
 ## Run the examples
@@ -30,6 +34,7 @@ node 01_Cheaptor.js/02_Math.js
 node 02_JS_Keyword_Identifier/01_javascriptenginer.js
 node 02_JS_Keyword_Identifier/02_letinjavascript.js
 node JS_Incre_Decre_Op/07_q5.js
+node JS_Incre_Decre_Op/excersie4.js
 ```
 
-The increment/decrement examples explore prefix and postfix operators. In `07_q5.js`, postfix decrement returns the original value before reducing the variable, so the output is `10` followed by `9`. No additional packages are currently required.
+The increment/decrement examples explore prefix and postfix operators. In `07_q5.js`, postfix decrement returns the original value before reducing the variable, so the output is `10` followed by `9`. The `excersie4.js` example combines postfix increment with a conditional expression and prefix increment; it prints `3 3`. No additional packages are currently required.
